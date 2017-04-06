@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\libs\picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.0_0413040e6c4fa2d959c23f2837bbf4a07a84eb6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\libs\Android_Map3D_SDK_V4.1.3_20161208.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c108325bfcbf3212ddc2e6ea6e55f56742537381">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\2\Android_Map3D_SDK_V4.1.3_20161208_03d9d7e63bdcb249e651e37156ede33cc7b6cb1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\libs\AMap_Search_V4.0.0_20170111.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aec76476b2bf633ec5b7f26815cd7d630b434d4c">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Search_V4.0.0_20170111_7492e55cd1150f8420932c35746acd06bc803ebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Java\adt-bundle-windows\adt-bundle-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_0d0498eff5f8c281b429913e609af38a575e2d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_7181e950aeb6fb6003c46da7690aeaeb5686c1d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\libs\AMap_Location_V3.3.0_20170118.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="299ccce875c1bbd5eb2802923ae89946e22b7ee6">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap_Location_V3.3.0_20170118_0afc76cbb01b5ea91c2a6424aad561f2f06a7daf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e38702dea6604da8fef9001cfe85fe43c254d2e7">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b37f66a9b5ae7e9496ceca7ce127c7dcd5bb920c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_9ac2a7b8e3e10dd4ca25a4c8e9e1929b566347b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d35f84730571306dda1e5d97abb757a90da0b50">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1095a266c72b1ab74c8c5c61465d6bca3b5d6903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\myAndroid_project\Deng_00_SubWay\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_9709e00a98784021802489cafd62f731760dc627\classes.dex" />
+    </item>
+
+</items>

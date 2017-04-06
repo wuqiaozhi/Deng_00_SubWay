@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_start"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.deng_00_subway.StartActivity">
+<LinearLayout
+    android:id="@+id/linear1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:weightSum="1">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_menu_mylocation"
+        />
+    <TextView
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/tvCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="xx市"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="42dp"
+        android:gravity="center"
+        android:text="    3D地铁"
+        android:textSize="25sp"
+        android:layout_weight="0.99" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_menu_myplaces"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="登录 注册"/>
+   </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/linear1">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="#C1FFC1"
+            android:text="头像-昵称"
+            android:textSize="40sp"
+            />
+
+    </LinearLayout>
+
+    <GridLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rowCount="3"
+        android:columnCount="2"
+        android:background="#FFDAB9"
+        android:orientation="horizontal"
+        android:id="@+id/IconLayout"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp">
+
+        <TextView
+            android:layout_height="125dp"
+            android:layout_width="146dp"
+            android:background="#CDCD00"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:text="地铁定位"
+            android:id="@+id/location"
+            android:textSize="30sp"
+             />
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="125dp"
+            android:layout_width="146dp"
+            android:background="#CDCD00"
+            android:gravity="center"
+            android:text="站内导航"
+            android:id="@+id/navigation"
+            android:textSize="30sp"
+             />
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="125dp"
+            android:layout_width="146dp"
+            android:background="#CDCD00"
+            android:gravity="center"
+            android:id="@+id/chat"
+            android:text="车厢聊天"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="125dp"
+            android:layout_width="146dp"
+            android:background="#CDCD00"
+            android:gravity="center"
+            android:id="@+id/mfriend"
+            android:text="出行交友"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="125dp"
+            android:layout_width="146dp"
+            android:background="#CDCD00"
+            android:gravity="center"
+            android:id="@+id/game"
+            android:text="车厢游戏"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="125dp"
+            android:layout_width="146dp"
+            android:background="#CDCD00"
+            android:gravity="center"
+            android:id="@+id/mapNavigation"
+            android:text="地图导航"
+            android:textSize="30sp"
+            />
+
+    </GridLayout>
+</RelativeLayout>

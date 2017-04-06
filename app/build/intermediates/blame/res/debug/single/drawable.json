@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_default.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\edittext_default.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_poi_search_normal.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_poi_search_normal.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_route_pre.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_route_pre.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_on.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_driving_on.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_route_next.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_route_next.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_selected.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\text_search_selected.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_focused.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_driving_focused.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\point.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_focused.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_walk_focused.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_default.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\text_search_default.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_off.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_transit_off.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\purple_pin.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\purple_pin.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_male.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\bg_gender_male.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\left_back.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\left_back.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_walk.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_gender_famal.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\bg_gender_famal.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_flat.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_default_flat.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_gray_round_frame_n.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\shape_gray_round_frame_n.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\text_search.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prev.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\prev.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_default.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_map_poi.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_map_poi.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_driving.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\whiteborder.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\whiteborder.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down_pressed.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_pressed.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_on.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_walk_on.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_search_pressed.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\text_search_pressed.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\groundoverlay.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\groundoverlay.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_default_small.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\next_disable.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\next_disable.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal_disable.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_default_small_normal_disable.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_focused.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_transit_focused.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bottombar.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_bottombar.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_nav_drag_down.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit_on.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_transit_on.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_transit.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_transit.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_pressed.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_default_small_pressed.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prev_disable.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\prev_disable.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_walk_off.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_walk_off.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_driving_off.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\mode_driving_off.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_nav_drag_down_normal.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_nav_drag_down_normal.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_default_small_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable\\btn_default_small_normal.9.png"
+    }
+]

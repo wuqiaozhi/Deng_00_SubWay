@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_user_male.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\ic_user_male.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_user_famale.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\ic_user_famale.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\start.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\start.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\car.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\car.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\man.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\man.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\bus.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\bus.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\end.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\end.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

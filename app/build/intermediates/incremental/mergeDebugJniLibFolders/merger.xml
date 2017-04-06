@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\myAndroid_project\Deng_00_SubWay\app\src\main\jniLibs"><file name="armeabi/libgdinamapv4sdk752.so" path="C:\myAndroid_project\Deng_00_SubWay\app\src\main\jniLibs\armeabi\libgdinamapv4sdk752.so"/><file name="armeabi/libgdinamapv4sdk752ex.so" path="C:\myAndroid_project\Deng_00_SubWay\app\src\main\jniLibs\armeabi\libgdinamapv4sdk752ex.so"/></source></dataSet><dataSet config="debug"><source path="C:\myAndroid_project\Deng_00_SubWay\app\src\debug\jniLibs"/></dataSet></merger>

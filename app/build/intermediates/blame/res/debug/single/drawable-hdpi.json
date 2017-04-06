@@ -1,0 +1,610 @@
+[
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottombar_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_normal.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bus.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\bus.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir10.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir10.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\navi_map_gps_locked.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\navi_map_gps_locked.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_end.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir_end.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_but_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_but_normal.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_download.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_download.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\car.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\car.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir8.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir8.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_background.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\title_background.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_start.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_start.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point1.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\point1.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir11.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir11.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\badge_wa.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\badge_wa.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custtexture.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\custtexture.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_end.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_end.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir13.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir13.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map_link_dott.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\map_link_dott.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\down.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\man.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\man.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\custom_info_bubble.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\custom_info_bubble.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir7.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir7.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rightarrow.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\rightarrow.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir1.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir1.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_drive_select.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\route_drive_select.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_normal_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_normal.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map_indoor_select.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\map_indoor_select.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_walk_normal.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\route_walk_normal.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_man.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_man.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_1.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_1.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_tab1_pressed.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_tab1_pressed.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_7.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_7.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_4.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_4.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map_alr.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\map_alr.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_bus_normal.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\route_bus_normal.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point2.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\point2.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\map_alr_night.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\map_alr_night.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottombar_press.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_press.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\divider.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\divider.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_right_blue.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\arrow_right_blue.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point5.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\point5.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\back.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_plate_global.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\search_plate_global.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_through.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_through.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_5.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_5.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point6.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\point6.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_start.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir_start.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_drive_normal.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\route_drive_normal.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir15.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir15.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_start.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_start.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_input.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\search_input.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_6.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_6.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_normal_press.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_press.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir4.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir4.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\border_bg.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\border_bg.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_normal_disable.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_disable.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offline_back.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offline_back.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir16.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir16.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_unlogin_bar.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\bg_unlogin_bar.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_ride.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_ride.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir2.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir2.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_car.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_car.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point4.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\point4.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\badge_sa.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\badge_sa.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\direct_mapsearch_pressed.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\direct_mapsearch_pressed.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir5.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir5.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_10.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_10.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start_uri.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\start_uri.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\location_marker.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\location_marker.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir_station.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir_station.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottombar_disable.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\btn_bottombar_disable.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir14.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir14.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_normal_focus.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_focus.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_input_half.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\search_input_half.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_tab2_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_tab2_normal.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\end.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\end.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\downarrow.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\downarrow.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\marker_other_highlight.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\marker_other_highlight.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_8.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_8.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ab_solid_dark_holo.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_walk_select.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\route_walk_select.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_down.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_down.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_stop.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_stop.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_2.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_2.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_3.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_3.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_but_pressed.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_but_pressed.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir12.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir12.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_pressed.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_pressed.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_icon_white.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\search_icon_white.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\poi_marker_9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\poi_marker_9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\direct_mapsearch.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\direct_mapsearch.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\point3.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\point3.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edittext_normal_press.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\edittext_normal_press.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\gps_point.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\gps_point.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\amap_bus.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\amap_bus.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offline_common_bar_bg.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offline_common_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_bottom_bar.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\bg_bottom_bar.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\search_bar_blue.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\search_bar_blue.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_tab2_pressed.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_tab2_pressed.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_big_normal_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\btn_big_normal_normal.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_poisearch.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\icon_poisearch.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\route_bus_select.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\route_bus_select.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir6.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir6.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\offlinearrow_tab1_normal.9.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\offlinearrow_tab1_normal.9.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dir3.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\dir3.png"
+    },
+    {
+        "merged": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\start.png",
+        "source": "C:\\myAndroid_project\\Deng_00_SubWay\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    }
+]
